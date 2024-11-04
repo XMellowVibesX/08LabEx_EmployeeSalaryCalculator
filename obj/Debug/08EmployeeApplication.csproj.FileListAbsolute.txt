@@ -1,0 +1,10 @@
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\bin\Debug\08EmployeeApplication.exe.config
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\bin\Debug\08EmployeeApplication.exe
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\bin\Debug\08EmployeeApplication.pdb
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\08EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\_08EmployeeApplication.frmComputeSalary.resources
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\_08EmployeeApplication.Properties.Resources.resources
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\08EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\08EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\08EmployeeApplication.exe
+C:\Users\KYRA JESSICA\source\repos\Mells_Projects\08EmployeeApplication\obj\Debug\08EmployeeApplication.pdb
